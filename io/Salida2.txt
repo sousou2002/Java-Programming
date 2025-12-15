@@ -1,0 +1,10 @@
+Posiciones de las palabras:
+ES 1 5 10
+BUENO 2 6 13
+HACERLO 3 7 15
+PERO 4
+AHORA 8 9
+EL 11
+MOMENTO 12
+DE 14
+FIN 16
